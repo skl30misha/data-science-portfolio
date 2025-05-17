@@ -16,7 +16,7 @@ This project focuses on analyzing and predicting product returns in an e-commerc
 
 ---
 
-## 📊 Dataset Overview
+## Dataset Overview
 
 - `customers.xlsx`: Customer info (age, country, loyalty segment)
 - `sales.xlsx`: Order details including price, discount, quantity, return status
@@ -29,7 +29,7 @@ After merging, the dataset includes features like:
 
 ---
 
-## 📈 Descriptive Analytics
+## Descriptive Analytics
 
 Performed visual and statistical analysis to answer:
 - Which products/categories have high return rates?
