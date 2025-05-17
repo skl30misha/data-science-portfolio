@@ -71,8 +71,7 @@ Solution: Applied **SMOTE** to oversample the minority class before training to 
 - RandomForestClassifier (with GridSearchCV)
 - **XGBoostClassifier (Best Performance)**
 
-### Pipeline:
-```text
+# Pipeline:
 SMOTE → Model → Predictions
 
 
